@@ -8,7 +8,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AsliNasirova&icon=0&color=0)](https://visitcount.itsvg.in)
-.[![](https://camo.githubusercontent.com/9b7074dac1de6f44552593cb28399eb5ebb7b53cd85259759f57a36563ec579b/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667)
+![](https://camo.githubusercontent.com/9b7074dac1de6f44552593cb28399eb5ebb7b53cd85259759f57a36563ec579b/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
